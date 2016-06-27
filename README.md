@@ -10,3 +10,5 @@ https://github.com/FortySevenEffects/arduino_midi_library/releases/latest
 Arduino MocoLufa Builds Mega2560 and Uno and Leonardo
 
 I havent personally tested leonardo or uno, but it should work
+Due shows up as Mocolufa, but programming gave me bad verify.
+I included the original firmware.
