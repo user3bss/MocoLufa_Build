@@ -11,5 +11,5 @@ Arduino MocoLufa Builds Mega2560 and Uno and Leonardo
 
 I havent personally tested leonardo or uno, but it should work
 
-due has 2 ports the native port can be used for midi host or midi device
-if you search for the code. I think midi slave is built into arduino codebase
+for boards with 2 usb ports native & programming try USBMIDI library
+https://www.arduino.cc/en/Reference/MIDIUSB
