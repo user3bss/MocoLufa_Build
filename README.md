@@ -13,3 +13,4 @@ I havent personally tested leonardo or uno, but it should work
 
 for boards with 2 usb ports native & programming try USBMIDI library
 https://www.arduino.cc/en/Reference/MIDIUSB
+https://github.com/arduino-libraries/MIDIUSB
